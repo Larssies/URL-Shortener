@@ -1,3 +1,4 @@
-# Define the folders to ignore in the repository
-.history
 node_modules
+dist
+.history
+.env
